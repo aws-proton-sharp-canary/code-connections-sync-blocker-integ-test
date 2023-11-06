@@ -1,0 +1,6 @@
+Resources:
+  NullResource:
+    Type: AWS::CloudFormation::WaitConditionHandle
+Outputs:
+  TheOutput:
+    Value: "Output for the CLI template" 
